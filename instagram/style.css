@@ -148,3 +148,29 @@ body
 {
 	height: 25px;
 }
+
+@media (max-width: 1024px)
+{
+	.instagram-wrapper
+	{
+		width: 90%;
+	}
+}
+
+@media (max-width: 1024px)
+{
+	.instagram-wrapper
+	{
+		width: 90%;
+	}
+	
+	.instagram-phone
+	{
+		display: none;
+	}
+	
+	.instagram-login
+	{
+		width:100%;
+	}
+}
